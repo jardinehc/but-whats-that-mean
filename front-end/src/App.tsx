@@ -10,6 +10,7 @@ function App() {
         <p>
           Welcome to Whats it mean? 
         </p>
+        <p> Find out what that number plate really means.</p>
       </header>
     </div>
   );
